@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+.env/
+
+# Compiled files
+*.pyc
+__pycache__/
+
+# IDE files
+.idea/
+.vscode/
+
+# Others
+.DS_Store
